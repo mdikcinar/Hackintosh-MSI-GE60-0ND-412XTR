@@ -1,7 +1,7 @@
 # Hackintosh-MSI-GE60-0ND-412XTR
 Hackintosh efi folder
 
-* Backlight is not working.
+* Backlight changing is not working.
 * Sleep also probably not working(i did not test it)
 * GTX 660m not working
 
